@@ -2,7 +2,7 @@
 
 - 🏛️ Ciências da Computação - IMT
 - 📫 Contate-me no e-mail: murilo.sacchi1126@gmail.com
-- 🌱 Estudando Back-end, Front-end e SQL
+- 🌱 Estudando Back-end, Front-end e Banco de dados
 
 <div>
   <a href="https://github.com/murilosacchi">

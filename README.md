@@ -1,28 +1,37 @@
-# Olá, eu sou Murilo Sacchi 👋
+# Hi, I'm Murilo Sacchi 👋
 
-🎓 Estudante de Ciência da Computação - Instituto Mauá de Tecnologia
+Computer Science student at Instituto Mauá de Tecnologia (2023–2027).
 
-💼 System Sustainment Analyst Intern na F1RST Digital Services (Grupo Santander)
+Currently working as a System Sustainment Analyst Intern at F1RST Digital Services (Santander Group), focused on Foreign Exchange (FX) and Trade Finance systems.
 
-💻 Experiência com:
-- Java
-- Flutter
-- Python
-- SQL
-- Supabase
-- Grafana
-- Dynatrace
+## About Me
 
-🧠 Interesses:
-- Inteligência Artificial
-- Redes Neurais
-- Visão Computacional
-- Desenvolvimento Backend
+- 💻 Experience with Java, Flutter, Python and SQL
+- 📊 Data analysis using Power BI and Excel
+- 📈 Application monitoring with Grafana and Dynatrace
+- 🧠 Interested in Artificial Intelligence, Neural Networks and Computer Vision
+- 🚇 Academic projects developed in partnership with São Paulo Metro and Colégio Poliedro
 
-🚇 Projetos em parceria com:
-- Metrô de São Paulo
-- Colégio Poliedro
+## Tech Stack
 
-📫 Contato:
-- LinkedIn
-- E-mail
+Java • Python • Dart • Flutter • Flask • SQL • PostgreSQL • Supabase • Git • Grafana • Dynatrace • YOLO
+
+## Featured Projects
+
+### Neuroevolution for Multi-Agent Logistics Simulation
+Bachelor's thesis focused on neural networks and genetic algorithms applied to logistics environments.
+
+### Construction Progress Monitoring System
+Computer vision solution using YOLO for monitoring construction progress.
+
+### Restaurant Order Management Chatbot
+Mobile chatbot integrated with order management and database services.
+
+### Fire Extinguisher Management System
+Cross-platform application developed in partnership with São Paulo Metro.
+
+## Contact
+
+📧 murilo.sacchi1126@gmail.com
+
+💼 LinkedIn: linkedin.com/in/murilo-sacchi-092a65264

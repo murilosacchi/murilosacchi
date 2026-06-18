@@ -32,6 +32,5 @@ Cross-platform application developed in partnership with São Paulo Metro.
 
 ## Contact
 
-📧 murilo.sacchi1126@gmail.com
-
-💼 LinkedIn: linkedin.com/in/murilo-sacchi-092a65264
+[LinkedIn](https://www.linkedin.com/in/murilo-sacchi-092a65264)
+[GitHub Portfolio](https://github.com/murilosacchi)

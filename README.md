@@ -2,7 +2,7 @@
 
 Computer Science student at Instituto Mauá de Tecnologia (2023–2027).
 
-Currently working as a System Sustainment Analyst Intern at F1RST Digital Services (Santander Group), focused on Foreign Exchange (FX) and Trade Finance systems.
+Currently working as a System Sustainment Analyst Intern at F1RST Digital Services (Santander Group), focused on Foreign Exchange (FX) and Trade Finance systems. Previously worked in Data Analysis & Mobile Development at MostBR, with experience in Flutter, API integrations, SQL, Power BI and Microsoft Power Platform.
 
 ## About Me
 
@@ -14,7 +14,23 @@ Currently working as a System Sustainment Analyst Intern at F1RST Digital Servic
 
 ## Tech Stack
 
-Java • Python • Dart • Flutter • Flask • SQL • PostgreSQL • Supabase • Git • Grafana • Dynatrace • YOLO
+Backend:
+Java • Python • Flask
+
+Frontend & Mobile:
+Flutter • Dart
+
+Database:
+SQL • PostgreSQL • Supabase
+
+Observability:
+Grafana • Dynatrace
+
+AI & Computer Vision:
+YOLO
+
+Tools:
+Git • Power BI
 
 ## Featured Projects
 
